@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .card{
-	width:auto;
+	width:20px;
 	padding:10px;
 	background-color:red;
 	box-shadow:0px 0px 10px black;
 }
 img{
-	width:auto;
+	width:20px;
 }
